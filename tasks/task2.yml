@@ -1,0 +1,2 @@
+- name: Distribution version
+  debug: msg="{{ ansible_distribution_version}}"

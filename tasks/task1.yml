@@ -1,0 +1,2 @@
+- name: Distribution
+  debug: msg="{{ ansible_distribution }}"
